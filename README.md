@@ -1,5 +1,5 @@
-Global N2O Ellipses
-===================
+Global N<sub>2</sub>O Ellipses
+==============================
 
 Data and code associated with Snider, Venkiteswaran, Schiff, and Spoelstra global N<sub>2</sub>O ellipses manuscript.
 

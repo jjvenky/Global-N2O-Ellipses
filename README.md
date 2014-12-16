@@ -7,4 +7,4 @@ This manuscript was submitted in January 2014. Revised manuscript to be submitte
 
 The raw data will be several csv files. 
 
-The R-code requires ggplot2, reshape, RColorBrewer, scales, grid, siar, plyr.
+The R-code for the analyses, figures, and mixing models requires ggplot2, reshape, RColorBrewer, scales, grid, siar, plyr, R2jags, MASS, reshape, devtools.

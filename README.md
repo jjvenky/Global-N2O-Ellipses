@@ -7,7 +7,7 @@ Manuscript submitted January 2014. Revised manuscript submitted December 2014. M
 
 The raw data and R-script used to perform the analyses and figures are here.
 
-* figures for N2O isotopes.R: *R-script that loads the raw data, performs calculations, and generates the figures*
+* figures for N2O isotopes ellipses.R: *R-script that loads the raw data, performs calculations, and generates the figures*
 * mixing model for N2O isotopes ellipses.R: *R-script that creates summaries of the N<sub>2</sub>O isotope data and runs various mixing models combinations via MixSIAR*
 * Dataset S1.csv: *Raw N<sub>2</sub>O isotope data with citations*
 * Dataset S2.csv: *Emission-weighted average isotopes data with citations, used in Figure 5*

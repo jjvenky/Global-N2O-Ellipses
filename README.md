@@ -12,5 +12,6 @@ The raw data and R-script used to perform the analyses and figures are here.
 * Dataset S1.csv: *Raw N<sub>2</sub>O isotope data with citations*
 * Dataset S2.csv: *Emission-weighted average isotopes data with citations, used in Figure 5*
 * Figure [1-7].pdf: *Figures as accepted*
+* Global Model Solutions.csv: *Global Solutions to the N<sub>2</sub>O isotope budget, used in Figure 7*
 
 The R-code for the analyses, figures, and mixing models requires (at the very least) ggplot2, reshape, RColorBrewer, scales, grid, siar, plyr, R2jags, MASS, reshape, devtools. Thanks to the authors of these packages.

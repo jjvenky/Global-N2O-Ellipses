@@ -1,9 +1,9 @@
 Global N<sub>2</sub>O Ellipses
 ==============================
 
-Data and code associated with Snider, Venkiteswaran, Schiff, and Spoelstra. 2015. From the Ground Up: Global Nitrous Oxide Sources are Constrained by Stable Isotope Values. PLoS ONE PONE-D-14-15929R2
+Data and code associated with Snider, Venkiteswaran, Schiff, and Spoelstra. 2015. From the Ground Up: Global Nitrous Oxide Sources are Constrained by Stable Isotope Values. doi: [10.1371/journal.pone.0118945](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0118954)
 
-Manuscript submitted January 2014. Revised manuscript submitted December 2014. Manuscript accepted 30 January 2015.
+Manuscript submitted January 2014. Revised manuscript submitted December 2014. Manuscript accepted 30 January 2015. Published 25 March 2015.
 
 The raw data and R-script used to perform the analyses and figures are here.
 
